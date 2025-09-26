@@ -1,0 +1,15 @@
+﻿.venv/
+venv/
+env/
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
+.jupyter/lab/workspaces/
+data/processed/
+reports/
+figures/
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
